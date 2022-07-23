@@ -1,0 +1,1137 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme event\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-16 08:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.6\n"
+"X-Domain: ova_event"
+
+#: shortcode/shortcode.php:1428
+msgid " 1"
+msgstr ""
+
+#: shortcode/shortcode.php:1428
+msgid " Leave Comment"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1438
+msgid "1 Columns"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1758
+msgid "1 Star"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1439
+msgid "2 Columns"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1757
+msgid "2 Stars"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1440
+msgid "3 Columns"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1756
+msgid "3 Stars"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1441
+msgid "4 Columns"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1755
+msgid "4 Stars"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1442
+msgid "5 Columns"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1754
+msgid "5 Stars"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1443
+msgid "6 Columns"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A plugin to create custom post type, metabox,  shortcode, registration, "
+"payment..."
+msgstr ""
+
+#: custom-post-type/post-type.php:138
+msgid "Add New Category"
+msgstr ""
+
+#: custom-post-type/post-type.php:60
+msgid "Add New Group"
+msgstr ""
+
+#: custom-post-type/post-type.php:94 custom-post-type/post-type.php:95
+msgid "Add New Schedule"
+msgstr ""
+
+#: custom-post-type/post-type.php:15
+msgid "Add New Slide"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:807
+msgid "Address"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:905
+msgid "Align"
+msgstr ""
+
+#: custom-post-type/post-type.php:133
+msgid "All Categories"
+msgstr ""
+
+#: custom-post-type/post-type.php:55
+msgid "All Group"
+msgstr ""
+
+#: custom-post-type/post-type.php:92
+msgid "All Schedules"
+msgstr ""
+
+#: custom-post-type/post-type.php:19
+msgid "All Slides"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1978 shortcode/vc-shortcode.php:2181
+msgid "Alt"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:80
+msgid "ASC"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:718 shortcode/vc-shortcode.php:754
+msgid "asc"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1743
+msgid "Author"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1024 shortcode/vc-shortcode.php:1203
+#: shortcode/vc-shortcode.php:1511 shortcode/vc-shortcode.php:1666
+#: shortcode/vc-shortcode.php:1900
+msgid "Auto play"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:96
+msgid "Auto slider"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:231
+msgid "Background color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:238
+msgid "Background color hover"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1253
+msgid "Background Slide item"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1179
+msgid "Background slider"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:220 shortcode/vc-shortcode.php:949
+#: shortcode/vc-shortcode.php:1127 shortcode/vc-shortcode.php:1356
+#: shortcode/vc-shortcode.php:2091
+msgid "Blank"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:277 shortcode/vc-shortcode.php:866
+msgid "Border color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:285
+msgid "Border color hover"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:268
+msgid "Border radius"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:858
+msgid "Border Right"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:189
+msgid "Button"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:578
+msgid "button background color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:586
+msgid "button hover background color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:570
+msgid "button icon. insert font-awesome"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:561
+msgid "Button text"
+msgstr ""
+
+#: custom-post-type/post-type.php:140
+msgid "Categories"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1418
+msgid "Category"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:910
+msgid "Center"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1421
+msgid "Choose a Content Category from the drop down list."
+msgstr ""
+
+#: shortcode/vc-shortcode.php:51
+msgid "Choose a slideshow category"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2175
+msgid "Choose image when display popup"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2166
+msgid "Choose thumbnail"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:179 shortcode/vc-shortcode.php:306
+#: shortcode/vc-shortcode.php:495 shortcode/vc-shortcode.php:611
+#: shortcode/vc-shortcode.php:672 shortcode/vc-shortcode.php:795
+#: shortcode/vc-shortcode.php:874 shortcode/vc-shortcode.php:981
+#: shortcode/vc-shortcode.php:1061 shortcode/vc-shortcode.php:1150
+#: shortcode/vc-shortcode.php:1240 shortcode/vc-shortcode.php:1275
+#: shortcode/vc-shortcode.php:1632 shortcode/vc-shortcode.php:1703
+#: shortcode/vc-shortcode.php:1774 shortcode/vc-shortcode.php:1853
+#: shortcode/vc-shortcode.php:1937 shortcode/vc-shortcode.php:2012
+#: shortcode/vc-shortcode.php:2043 shortcode/vc-shortcode.php:2137
+#: shortcode/vc-shortcode.php:2189 shortcode/vc-shortcode.php:2254
+msgid "Class"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2100
+msgid "class"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1140
+msgid ""
+"click text tab and insert code like:<br/> &lt;ul&gt;\n"
+"\t&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-"
+"facebook&quot;&gt;&lt;/i&gt;&lt;span class=&quot;hidden&quot;&gt;fb&lt;"
+"/span&gt;&lt;/a&gt;&lt;/li&gt;\n"
+"\t&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;"
+"&gt;&lt;/i&gt;&lt;span class=&quot;hidden&quot;&gt;twitter&lt;/span&gt;&lt;"
+"/a&gt;&lt;/li&gt;\n"
+"\t&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-youtube&quot;"
+"&gt;&lt;/i&gt;&lt;span class=&quot;hidden&quot;&gt;youtube&lt;/span&gt;&lt;"
+"/a&gt;&lt;/li&gt;\n"
+"&lt;/ul&gt;"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2073
+msgid "color fonts icon"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1435
+msgid "Columns show"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1622
+msgid "Content"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:706
+msgid "Count"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:88
+msgid "Count slide"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:317
+msgid "Countdown"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1592
+msgid "Currency"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1574
+msgid "Currency - Value"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2237
+msgid "Currency Code"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:66 shortcode/vc-shortcode.php:741
+msgid "date"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:79
+msgid "DESC"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:719 shortcode/vc-shortcode.php:755
+msgid "desc"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:851 shortcode/vc-shortcode.php:966
+#: shortcode/vc-shortcode.php:1366 shortcode/vc-shortcode.php:1735
+msgid "Description"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:827
+msgid "Direction"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:764
+msgid "Disable link of title"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:52
+msgid ""
+"Display categories that exists item. You need to add item in Slideshows >> "
+"Add new slide"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:140
+msgid "Display cover background"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:358
+msgid "Display format"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:361
+msgid ""
+"Display Format: dHMS. d: Day, H: Hour, M: Month, S: Second. You can insert "
+"HMS or dHM or dH. default dHMS"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:736
+msgid "Display item list order by: "
+msgstr ""
+
+#: shortcode/vc-shortcode.php:751
+msgid "Display item list order: "
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1215
+msgid "Display navigation"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1036 shortcode/vc-shortcode.php:1523
+#: shortcode/vc-shortcode.php:1678 shortcode/vc-shortcode.php:1912
+msgid "Display pagination"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:702
+msgid "Display sub-category (category level 2) order by: "
+msgstr ""
+
+#: shortcode/vc-shortcode.php:715
+msgid "Display sub-category (category level 2) order: "
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1016 shortcode/vc-shortcode.php:1195
+#: shortcode/vc-shortcode.php:1503 shortcode/vc-shortcode.php:1658
+#: shortcode/vc-shortcode.php:1892
+msgid "Duration ms. 1000ms=3s"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:108
+msgid "Duration of slider(ms). 1000ms = 1s"
+msgstr ""
+
+#: custom-post-type/post-type.php:136
+msgid "Edit Category"
+msgstr ""
+
+#: custom-post-type/post-type.php:58
+msgid "Edit Group"
+msgstr ""
+
+#: custom-post-type/post-type.php:96
+msgid "Edit Schedule"
+msgstr ""
+
+#: custom-post-type/post-type.php:17
+msgid "Edit Slide"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:328
+msgid "End day"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:338
+msgid "End Month"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:348
+msgid "End Year"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2123
+msgid "Event Gallery"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:100 shortcode/vc-shortcode.php:120
+#: shortcode/vc-shortcode.php:132 shortcode/vc-shortcode.php:144
+msgid "False"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1028 shortcode/vc-shortcode.php:1040
+#: shortcode/vc-shortcode.php:1052 shortcode/vc-shortcode.php:1207
+#: shortcode/vc-shortcode.php:1219 shortcode/vc-shortcode.php:1231
+#: shortcode/vc-shortcode.php:1515 shortcode/vc-shortcode.php:1527
+#: shortcode/vc-shortcode.php:1539 shortcode/vc-shortcode.php:1670
+#: shortcode/vc-shortcode.php:1682 shortcode/vc-shortcode.php:1694
+#: shortcode/vc-shortcode.php:1904 shortcode/vc-shortcode.php:1916
+#: shortcode/vc-shortcode.php:1928
+msgid "false"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1613
+msgid "Feature"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1609
+msgid "Feature Package"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:818 shortcode/vc-shortcode.php:896
+#: shortcode/vc-shortcode.php:2065
+msgid "Font awesome"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:650
+msgid "FontAwesome"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:331 shortcode/vc-shortcode.php:1429
+msgid "For example: 10"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:351
+msgid "For example: 2015"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1475
+msgid "For example: Read more"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:521
+msgid "Free"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1408
+msgid "From Our Blog"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2149
+msgid "Gallery item"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:695
+msgid ""
+"Go to Schedule >> Categories >> copy value in slug filed of category level 1."
+" For example: sep-26-2015,sep-27-2015,sep-28-2015,sep-29-2015"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1797
+msgid "Google Map"
+msgstr ""
+
+#: custom-post-type/post-type.php:62
+msgid "Group"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:624
+msgid "heading"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:152
+msgid "Height desk"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:161
+msgid "Height Ipad"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:170
+msgid "Height Mobile"
+msgstr ""
+
+#: registration/settings.php:424
+msgid "How the sender email appears in outgoing emails."
+msgstr ""
+
+#: shortcode/vc-shortcode.php:259
+msgid "Icon"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:917
+msgid "Icon color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1844
+msgid "Icon for marker"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2079
+msgid "icon Link"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:705
+msgid "ID"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:64 shortcode/vc-shortcode.php:739
+msgid "id"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1807
+msgid "Id for map section"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2021
+msgid "Iframe Eventbrite"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1727
+msgid "image"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:959
+msgid "Info"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:155 shortcode/vc-shortcode.php:164
+#: shortcode/vc-shortcode.php:173 shortcode/vc-shortcode.php:182
+msgid "Insert class to use for your style"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:341
+msgid "Insert from 1 to 12. For example: 5"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2033
+msgid "Insert ID of event at eventbrite.com"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:693
+msgid "Insert Parent Category (category level 1)"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1090 shortcode/vc-shortcode.php:1269
+#: shortcode/vc-shortcode.php:1316 shortcode/vc-shortcode.php:1966
+msgid "Insert path of thumbnail"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:785
+msgid "Intermediate color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1008 shortcode/vc-shortcode.php:1884
+msgid "Item count in each slide"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:728
+msgid "Item count in each sub-category"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1116
+msgid "Job"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:462
+msgid "label day"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:405
+msgid "label days"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:470
+msgid "label hour"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:413
+msgid "label hours"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:478
+msgid "label minute"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:421
+msgid "label minutes"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:446
+msgid "label month"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:389
+msgid "label months"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:486
+msgid "label second"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:429
+msgid "label seconds"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:454
+msgid "label week"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:397
+msgid "label weeks"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:438
+msgid "label Year"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:381
+msgid "label Years"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:830 shortcode/vc-shortcode.php:908
+msgid "Left"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:208 shortcode/vc-shortcode.php:1766
+msgid "Link"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1816
+msgid "location"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:128 shortcode/vc-shortcode.php:1048
+#: shortcode/vc-shortcode.php:1227 shortcode/vc-shortcode.php:1535
+#: shortcode/vc-shortcode.php:1690 shortcode/vc-shortcode.php:1924
+msgid "Loop"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1601
+msgid "Main color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:40
+msgid "Main slider"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2211
+msgid "Make Donation"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:294
+msgid "Margin (px)"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:67 shortcode/vc-shortcode.php:742
+msgid "modified"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:43 shortcode/vc-shortcode.php:192
+#: shortcode/vc-shortcode.php:320 shortcode/vc-shortcode.php:510
+#: shortcode/vc-shortcode.php:627 shortcode/vc-shortcode.php:686
+#: shortcode/vc-shortcode.php:810 shortcode/vc-shortcode.php:888
+#: shortcode/vc-shortcode.php:996 shortcode/vc-shortcode.php:1079
+#: shortcode/vc-shortcode.php:1182 shortcode/vc-shortcode.php:1258
+#: shortcode/vc-shortcode.php:1306 shortcode/vc-shortcode.php:1411
+#: shortcode/vc-shortcode.php:1554 shortcode/vc-shortcode.php:1646
+#: shortcode/vc-shortcode.php:1800 shortcode/vc-shortcode.php:1872
+#: shortcode/vc-shortcode.php:1955 shortcode/vc-shortcode.php:2005
+#: shortcode/vc-shortcode.php:2024 shortcode/vc-shortcode.php:2058
+#: shortcode/vc-shortcode.php:2126 shortcode/vc-shortcode.php:2154
+#: shortcode/vc-shortcode.php:2214
+msgid "My shortcode"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:200 shortcode/vc-shortcode.php:1561
+msgid "Name"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1374
+msgid "name readmore"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:116
+msgid "Navigation"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1303
+msgid "Nearby Accomodation"
+msgstr ""
+
+#: custom-post-type/post-type.php:139
+msgid "New Category Name"
+msgstr ""
+
+#: custom-post-type/post-type.php:61
+msgid "New Group Name"
+msgstr ""
+
+#: custom-post-type/post-type.php:16
+msgid "New Slide"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:767
+msgid "No"
+msgstr ""
+
+#: custom-post-type/post-type.php:99
+msgid "No Schedules found"
+msgstr ""
+
+#: custom-post-type/post-type.php:100
+msgid "No Schedules found in Trash"
+msgstr ""
+
+#: custom-post-type/post-type.php:23
+msgid "No Slides found in Trash."
+msgstr ""
+
+#: custom-post-type/post-type.php:22
+msgid "No Slides found."
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1612
+msgid "Normal"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:969
+msgid ""
+"Open text tab and insert code like: &lt;ul&gt;\n"
+"\t&lt;li&gt;&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;&lt;a "
+"href=&quot;#&quot;&gt;Introduction to WordPress&lt;/a&gt;&lt;/li&gt;\n"
+"\t&lt;li&gt;&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;&lt;a "
+"href=&quot;#&quot;&gt;How WordPress changed the web&lt;/a&gt;&lt;/li&gt;\n"
+"\t&lt;li&gt;&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;&lt;a "
+"href=&quot;#&quot;&gt;Why developers love ?&lt;/a&gt;&lt;/li&gt;\n"
+"\t&lt;li&gt;&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;&lt;a "
+"href=&quot;#&quot;&gt;Improving WordPress workflow&lt;/a&gt;&lt;/li&gt;\n"
+"&lt;/ul&gt;"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:76
+msgid "Order"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:61
+msgid "order by"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme event"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "ovatheme.com"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:221 shortcode/vc-shortcode.php:950
+#: shortcode/vc-shortcode.php:1128 shortcode/vc-shortcode.php:1357
+#: shortcode/vc-shortcode.php:2092
+msgid "Parent"
+msgstr ""
+
+#: custom-post-type/post-type.php:134
+msgid "Parent Category"
+msgstr ""
+
+#: custom-post-type/post-type.php:135
+msgid "Parent Category:"
+msgstr ""
+
+#: custom-post-type/post-type.php:56
+msgid "Parent Group"
+msgstr ""
+
+#: custom-post-type/post-type.php:57
+msgid "Parent Group:"
+msgstr ""
+
+#: custom-post-type/post-type.php:91
+msgid "Parent Schedule:"
+msgstr ""
+
+#: custom-post-type/post-type.php:21
+msgid "Parent Slides:"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:522
+msgid "Paypal"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2229
+msgid "Paypal Email"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2245
+msgid "Placeholder"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2172
+msgid "Popup Image"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:223
+msgid "Popup Video"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1322 shortcode/vc-shortcode.php:1551
+msgid "Price"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1575
+msgid "Price - Value"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1571
+msgid "Price style"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:68 shortcode/vc-shortcode.php:743
+msgid "rand"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1751
+msgid "Rate"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1383
+msgid "readmore color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:507
+msgid "Register form"
+msgstr ""
+
+#: shortcode/shortcode.php:248
+msgid "Register Now"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:831 shortcode/vc-shortcode.php:909
+msgid "Right"
+msgstr ""
+
+#: custom-post-type/post-type.php:90 shortcode/vc-shortcode.php:683
+msgid "Schedule"
+msgstr ""
+
+#: custom-post-type/post-type.php:103
+msgid "schedule"
+msgstr ""
+
+#: custom-post-type/post-type.php:104
+msgid "Schedule information pages"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:219
+msgid "Scroll"
+msgstr ""
+
+#: custom-post-type/post-type.php:132
+msgid "Search Categories"
+msgstr ""
+
+#: custom-post-type/post-type.php:54
+msgid "Search Group"
+msgstr ""
+
+#: custom-post-type/post-type.php:98
+msgid "Search Schedules"
+msgstr ""
+
+#: custom-post-type/post-type.php:20
+msgid "Search Slides"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:948 shortcode/vc-shortcode.php:1126
+#: shortcode/vc-shortcode.php:1355 shortcode/vc-shortcode.php:2090
+msgid "Self"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1487
+msgid "Show author"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1495
+msgid "Show date create"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1465
+msgid "Show description"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1451
+msgid "Show image thumbnail"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1480
+msgid "Show read more"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1458
+msgid "Show title"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:707
+msgid "Slug"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:65 shortcode/vc-shortcode.php:740
+msgid "slug"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1137
+msgid "social icon"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:2053
+msgid "Social icon item"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1999
+msgid "Social icons"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:993
+msgid "Speakers"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1074
+msgid "Speakers item"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1869
+msgid "Sponsor"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1950
+msgid "Sponsor item"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:548
+msgid "Style"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:659
+msgid "Style "
+msgstr ""
+
+#: shortcode/vc-shortcode.php:551 shortcode/vc-shortcode.php:662
+msgid "Style 1"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:552 shortcode/vc-shortcode.php:663
+msgid "Style 2"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:642
+msgid "Sub Title"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:539
+msgid "Sub title"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:216
+msgid "Target"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:945 shortcode/vc-shortcode.php:1123
+#: shortcode/vc-shortcode.php:1352 shortcode/vc-shortcode.php:2087
+msgid "Target Link"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1643
+msgid "Testimonial"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1715
+msgid "Testimonial item"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:594
+msgid "text button color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:602
+msgid "text button hover color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:245
+msgid "Text color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:252
+msgid "Text color hover"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1472
+msgid "Text readmore"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:371
+msgid ""
+"The timezone (hours or minutes from GMT) for the target times. <br/>\n"
+"\t\t\t\t\tFor example:<br/>\n"
+"\t\t\t\t\tIf Timezone is UTC-9:00 you have to insert -9 <br/>\n"
+"\t\t\t\t\tIf Timezone is UTC-9:30, you have to insert -9*60+30=-570. <br/>\n"
+"\t\t\t\t\tRead about UTC Time: http://en.wikipedia."
+"org/wiki/List_of_UTC_time_offsets"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1718
+msgid "ThemeBox"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1087 shortcode/vc-shortcode.php:1266
+#: shortcode/vc-shortcode.php:1313 shortcode/vc-shortcode.php:1963
+#: shortcode/vc-shortcode.php:2163
+msgid "Thumbnail"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:777
+msgid "Time color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:368
+msgid "Time zone"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:531 shortcode/vc-shortcode.php:634
+#: shortcode/vc-shortcode.php:838 shortcode/vc-shortcode.php:924
+#: shortcode/vc-shortcode.php:1095 shortcode/vc-shortcode.php:1330
+#: shortcode/vc-shortcode.php:1971 shortcode/vc-shortcode.php:2221
+msgid "Title"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1826
+msgid "title"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:845 shortcode/vc-shortcode.php:931
+#: shortcode/vc-shortcode.php:1102 shortcode/vc-shortcode.php:1338
+msgid "Title color"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:937 shortcode/vc-shortcode.php:1108
+#: shortcode/vc-shortcode.php:1344
+msgid "Title Link"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:222 shortcode/vc-shortcode.php:951
+#: shortcode/vc-shortcode.php:1129 shortcode/vc-shortcode.php:1358
+#: shortcode/vc-shortcode.php:2093
+msgid "Top"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:885
+msgid "Topics"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1426
+msgid "Total item show"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:99 shortcode/vc-shortcode.php:119
+#: shortcode/vc-shortcode.php:131 shortcode/vc-shortcode.php:143
+msgid "True"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1027 shortcode/vc-shortcode.php:1039
+#: shortcode/vc-shortcode.php:1051 shortcode/vc-shortcode.php:1206
+#: shortcode/vc-shortcode.php:1218 shortcode/vc-shortcode.php:1230
+#: shortcode/vc-shortcode.php:1514 shortcode/vc-shortcode.php:1526
+#: shortcode/vc-shortcode.php:1538 shortcode/vc-shortcode.php:1669
+#: shortcode/vc-shortcode.php:1681 shortcode/vc-shortcode.php:1693
+#: shortcode/vc-shortcode.php:1903 shortcode/vc-shortcode.php:1915
+#: shortcode/vc-shortcode.php:1927
+msgid "true"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:518
+msgid "Type"
+msgstr ""
+
+#: custom-post-type/post-type.php:137
+msgid "Update Category"
+msgstr ""
+
+#: custom-post-type/post-type.php:59
+msgid "Update Group"
+msgstr ""
+
+#: custom-post-type/post-type.php:97
+msgid "Update Schedule"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1583
+msgid "Value"
+msgstr ""
+
+#: custom-post-type/post-type.php:93
+msgid "View Schedule"
+msgstr ""
+
+#: custom-post-type/post-type.php:18
+msgid "View Slide"
+msgstr ""
+
+#: shortcode/shortcode.php:689 shortcode/shortcode.php:777
+msgid "View Speaker"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:768
+msgid "Yes"
+msgstr ""
+
+#: shortcode/vc-shortcode.php:1835
+msgid "Zoom"
+msgstr ""

@@ -1,0 +1,1098 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MitUp\n"
+"POT-Creation-Date: 2016-11-16 00:43+0700\n"
+"PO-Revision-Date: 2016-11-10 02:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: ovatheme <ovatheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_x;_e;esc_html__;esc_html_x;esc_html_e;esc_attr__;"
+"esc_attr_x;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:28
+msgid "Go to Home page"
+msgstr ""
+
+#: comments.php:15
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:49
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:51
+msgid "Name"
+msgstr ""
+
+#: comments.php:52
+msgid "Email"
+msgstr ""
+
+#: comments.php:53
+msgid "Website"
+msgstr ""
+
+#: comments.php:57
+msgid "Your Comment ..."
+msgstr ""
+
+#: comments.php:59
+msgid "Submit Comment"
+msgstr ""
+
+#: content/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/define_blocks_content.php:73
+msgid " Leave Comment"
+msgstr ""
+
+#: content/define_blocks_content.php:74
+msgid " 1 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:102
+msgid "Read more"
+msgstr ""
+
+#: content/define_blocks_content.php:186
+msgid "says: "
+msgstr ""
+
+#: content/define_blocks_content.php:190
+msgid "(Edit)"
+msgstr ""
+
+#: content/define_blocks_content.php:204
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: extend/active_plugins.php:64
+msgid "Contact Form 7"
+msgstr ""
+
+#: extend/active_plugins.php:69
+msgid "Metabox"
+msgstr ""
+
+#: extend/active_plugins.php:74
+msgid "Widget importer exporter"
+msgstr ""
+
+#: extend/active_plugins.php:79
+msgid "Options importer"
+msgstr ""
+
+#: extend/active_plugins.php:84
+msgid "Mailchimp for wp"
+msgstr ""
+
+#: extend/active_plugins.php:89
+msgid "Cube portfolio"
+msgstr ""
+
+#: extend/active_plugins.php:95
+msgid "Ovatheme event"
+msgstr ""
+
+#: extend/active_plugins.php:101
+msgid "Visual Composer"
+msgstr ""
+
+#: extend/add_js_css.php:575 extend/add_js_css.php:576
+msgid "on"
+msgstr ""
+
+#: extend/breadcrumbs.php:14 extend/breadcrumbs.php:21
+msgid "Home"
+msgstr ""
+
+#: extend/breadcrumbs.php:16 extend/breadcrumbs.php:95
+msgid "Search results for"
+msgstr ""
+
+#: extend/breadcrumbs.php:50
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:53
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:55
+msgid "Archive by year"
+msgstr ""
+
+#: extend/breadcrumbs.php:97
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:101
+msgid "Articles posted by"
+msgstr ""
+
+#: extend/breadcrumbs.php:103
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: extend/customizer.php:7
+msgid "Typography setting"
+msgstr ""
+
+#: extend/customizer.php:23
+msgid "Display Loading"
+msgstr ""
+
+#: extend/customizer.php:28 framework/metabox_default.php:45
+#: framework/metabox_default.php:174 framework/metabox_default.php:186
+msgid "Yes"
+msgstr ""
+
+#: extend/customizer.php:29 framework/metabox_default.php:46
+#: framework/metabox_default.php:173 framework/metabox_default.php:187
+msgid "No"
+msgstr ""
+
+#: extend/customizer.php:46
+msgid "Logo image"
+msgstr ""
+
+#: extend/customizer.php:63
+msgid "Padding Logo"
+msgstr ""
+
+#: extend/customizer.php:64
+msgid "For example: 34px 0px 34px 0px = Top Right Bottom Left"
+msgstr ""
+
+#: extend/customizer.php:81
+msgid "Padding Logo when scroll page"
+msgstr ""
+
+#: extend/customizer.php:82
+msgid "For example: 22px 0px 22px 0px = Top Right Bottom Left"
+msgstr ""
+
+#: extend/customizer.php:99
+msgid "Logo Height when scroll page"
+msgstr ""
+
+#: extend/customizer.php:100
+msgid "For example: 19px"
+msgstr ""
+
+#: extend/customizer.php:124
+msgid "Body font"
+msgstr ""
+
+#: extend/customizer.php:147
+msgid "Heading font"
+msgstr ""
+
+#: extend/customizer.php:167
+msgid "Main color"
+msgstr ""
+
+#: extend/customizer.php:188
+msgid "Menu color"
+msgstr ""
+
+#: extend/customizer.php:210
+msgid "Menu shrink color"
+msgstr ""
+
+#: extend/customizer.php:231
+msgid "Background Menu shrink color"
+msgstr ""
+
+#: extend/customizer.php:249
+msgid "Custom Font"
+msgstr ""
+
+#: extend/customizer.php:250
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://css-tricks.com/"
+"snippets/css/using-font-face/.  Step 2: Insert name-font here. For example: "
+"name-font1, name-font2"
+msgstr ""
+
+#: extend/metabox.php:25
+msgid "Slideshow Settings"
+msgstr ""
+
+#: extend/metabox.php:34
+msgid "Choose template"
+msgstr ""
+
+#: extend/metabox.php:39
+msgid "Basic"
+msgstr ""
+
+#: extend/metabox.php:40
+msgid "Countdown"
+msgstr ""
+
+#: extend/metabox.php:41
+msgid "Register"
+msgstr ""
+
+#: extend/metabox.php:48
+msgid "Background slide"
+msgstr ""
+
+#: extend/metabox.php:55
+msgid "Title"
+msgstr ""
+
+#: extend/metabox.php:62
+msgid "Sub Title"
+msgstr ""
+
+#: extend/metabox.php:69
+msgid "Description"
+msgstr ""
+
+#: extend/metabox.php:76
+msgid "Countdown shortcode"
+msgstr ""
+
+#: extend/metabox.php:79
+msgid ""
+"Countdown shortcode like: [event_countdown end_day=\"05\" end_month=\"1\" "
+"end_year=\"2016\" display_format=\"dHMS\" timezone=\"0\" years=\"years\" "
+"months=\"months\" weeks=\"weeks\" days=\"days\" hours=\"hours\" minutes="
+"\"minutes\" seconds=\"seconds\" year=\"year\" month=\"month\" week=\"week\" "
+"day=\"day\" hour=\"hour\" minute=\"minute\" second=\"second\"  "
+"animation_delay=\"0\" class=\"\" /] .You will find shortcode detail in the "
+"documentation"
+msgstr ""
+
+#: extend/metabox.php:84
+msgid "Button shortcode"
+msgstr ""
+
+#: extend/metabox.php:87
+msgid ""
+"Button shortcode like: [event_button name=\"WATCH VIDEO\" link=\"https://www."
+"youtube.com/watch?v=nrJtHemSPW4\" target=\"popup_video\" bg=\"transparent\" "
+"bg_hover=\"#44cb9a\" text_color=\"#fff\" text_color_hover=\"#fff\" icon=\"fa-"
+"chevron-circle-right\" border_radius=\"4px\" border_color=\"#fff\" "
+"border_color_hover=\"#44cb9a\"  margin=\"2px 5px\" animation_delay=\"0\" "
+"class=\"\" /] .You will find shortcode detail in the documentation"
+msgstr ""
+
+#: extend/metabox.php:94
+msgid "Register shortcode"
+msgstr ""
+
+#: extend/metabox.php:97
+#, php-format
+msgid ""
+"Register shortcode like: [event_registerform type=\"free\" title=\"Register "
+"Free Form\" subtitle=\"* We process using a 100% secure gateway\" style="
+"\"style1\" buttontext=\"REGISTER FORM\" iconbutton=\"fa-arrow-circle-o-right"
+"\" id=\"\" bg_button=\"#f74949\" bg_button_hover=\"#fff\" text_button_color="
+"\"#fff\" text_button_color_hover=\"#f74949\" animation_delay=\"0\" class="
+"\"\"  /] .You will find shortcode detail in the documentation"
+msgstr ""
+
+#: extend/metabox.php:107
+msgid "Schedule Settings"
+msgstr ""
+
+#: extend/metabox.php:116 framework/metabox_default.php:129
+msgid "Background heading"
+msgstr ""
+
+#: extend/metabox.php:117 framework/metabox_default.php:130
+msgid "You have to choose a background"
+msgstr ""
+
+#: extend/metabox.php:125 framework/metabox_default.php:137
+msgid "Title in heading"
+msgstr ""
+
+#: extend/metabox.php:131 framework/metabox_default.php:142
+msgid "Sub title in heading"
+msgstr ""
+
+#: extend/metabox.php:136
+msgid "Time Text"
+msgstr ""
+
+#: extend/metabox.php:137
+msgid "For example: 45 minutes"
+msgstr ""
+
+#: extend/metabox.php:142
+msgid "icon for time"
+msgstr ""
+
+#: extend/metabox.php:143
+msgid "For example: fa-clock-o"
+msgstr ""
+
+#: extend/metabox.php:148
+msgid "intermediate"
+msgstr ""
+
+#: extend/metabox.php:149
+msgid "Intermediate"
+msgstr ""
+
+#: extend/metabox.php:154
+msgid "icon for Intermediate"
+msgstr ""
+
+#: extend/metabox.php:155
+msgid "For example: fa-signal"
+msgstr ""
+
+#: extend/metabox.php:160
+msgid "Author"
+msgstr ""
+
+#: extend/metabox.php:161
+msgid "Author will speak: John Doe"
+msgstr ""
+
+#: extend/metabox.php:166
+msgid "Author Job"
+msgstr ""
+
+#: extend/metabox.php:167
+msgid "Job of author: CEO at Crown.io"
+msgstr ""
+
+#: extend/metabox.php:172
+msgid "Link of thumbnail"
+msgstr ""
+
+#: extend/metabox.php:173
+msgid "Insert link for thumbnail in home page"
+msgstr ""
+
+#: extend/register_menu.php:4
+msgid "Primary Menu"
+msgstr ""
+
+#: extend/register_menu.php:5
+msgid "OnePage Menu"
+msgstr ""
+
+#: extend/register_widget.php:6 extend/register_widget.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: extend/register_widget.php:18
+msgid "Footer"
+msgstr ""
+
+#: extend/register_widget.php:30
+msgid "Footer Social"
+msgstr ""
+
+#: extend/register_widget.php:41
+msgid "Footer Contact"
+msgstr ""
+
+#: extend/register_widget.php:52
+msgid "Footer mailchimp"
+msgstr ""
+
+#: extend/themeslug_walker_nav_menu.php:200
+msgid "Add a menu"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:912
+#: framework/class-tgm-plugin-activation.php:2618
+#: framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1206
+#: framework/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#: framework/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#: framework/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:89
+msgid "Global Layout for site"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:94
+#: framework/metabox_default.php:212
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:95
+#: framework/metabox_default.php:213
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:96
+#: framework/metabox_default.php:214
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:113
+#: framework/metabox_default.php:222
+msgid "Width of site"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:118
+#: framework/metabox_default.php:229
+msgid "Wide"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:119
+#: framework/metabox_default.php:230
+msgid "Boxed"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:136
+msgid "Sidebar column"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:137
+#: framework/customizer/customizer_default.php:164
+msgid "main column + sidebar column = 12 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:142
+msgid "1 column"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:143
+msgid "2 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:144
+msgid "3 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:145
+msgid "4 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:146
+msgid "5 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:147
+#: framework/customizer/customizer_default.php:174
+msgid "6 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:163
+msgid "Main column"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:169
+msgid "11 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:170
+msgid "10 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:171
+msgid "9 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:172
+msgid "8 columns"
+msgstr ""
+
+#: framework/customizer/customizer_default.php:173
+msgid "7 columns"
+msgstr ""
+
+#: framework/init.php:5 framework/init.php:11 framework/init.php:17
+#: framework/init.php:23
+msgid "Default"
+msgstr ""
+
+#: framework/init.php:17 framework/init.php:23
+msgid "Global in Customizer"
+msgstr ""
+
+#: framework/metabox_default.php:29
+msgid "Show Page Heading"
+msgstr ""
+
+#: framework/metabox_default.php:39
+msgid "Show title of page"
+msgstr ""
+
+#: framework/metabox_default.php:40
+msgid "Allow display title of page"
+msgstr ""
+
+#: framework/metabox_default.php:54
+msgid "Config Blog Page"
+msgstr ""
+
+#: framework/metabox_default.php:59
+msgid "1 Column"
+msgstr ""
+
+#: framework/metabox_default.php:60
+msgid "2 Columns"
+msgstr ""
+
+#: framework/metabox_default.php:61
+msgid "3 Columns"
+msgstr ""
+
+#: framework/metabox_default.php:62
+msgid "4 Columns"
+msgstr ""
+
+#: framework/metabox_default.php:77
+msgid "Post Settings"
+msgstr ""
+
+#: framework/metabox_default.php:86
+msgid "Link audio or video"
+msgstr ""
+
+#: framework/metabox_default.php:87
+msgid "Insert link audio or video use for video/audio post-format"
+msgstr ""
+
+#: framework/metabox_default.php:95
+msgid "Gallery image"
+msgstr ""
+
+#: framework/metabox_default.php:96
+msgid "image in gallery post format"
+msgstr ""
+
+#: framework/metabox_default.php:108
+msgid "General Settings"
+msgstr ""
+
+#: framework/metabox_default.php:116
+msgid "Choose theme location to display menu"
+msgstr ""
+
+#: framework/metabox_default.php:121
+msgid "Primary"
+msgstr ""
+
+#: framework/metabox_default.php:122
+msgid "One page"
+msgstr ""
+
+#: framework/metabox_default.php:148
+msgid "Background color for menu"
+msgstr ""
+
+#: framework/metabox_default.php:151
+msgid "Insert transparent to display transparent-background"
+msgstr ""
+
+#: framework/metabox_default.php:157
+msgid "Header Version"
+msgstr ""
+
+#: framework/metabox_default.php:159 framework/metabox_default.php:196
+msgid "This value will override value in customizer"
+msgstr ""
+
+#: framework/metabox_default.php:168
+msgid "Menu Fixed"
+msgstr ""
+
+#: framework/metabox_default.php:181
+msgid "Menu Sticky when scroll page"
+msgstr ""
+
+#: framework/metabox_default.php:194
+msgid "Footer Version"
+msgstr ""
+
+#: framework/metabox_default.php:205
+msgid "Main Layout"
+msgstr ""
+
+#: framework/metabox_default.php:206 framework/metabox_default.php:223
+msgid "This value will override value in theme customizer"
+msgstr ""
+
+#: framework/metabox_default.php:211 framework/metabox_default.php:228
+msgid "Global in customizer"
+msgstr ""
+
+#: framework/setup_theme.php:140
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: framework/setup_theme.php:153 framework/setup_theme.php:166
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: framework/setup_theme.php:176
+msgid "</ul></div>"
+msgstr ""
+
+#: framework/setup_theme.php:194
+msgid "Background pattern color "
+msgstr ""
+
+#: framework/setup_theme.php:199
+msgid "Choose opacity for background pattern color"
+msgstr ""
+
+#: framework/setup_theme.php:203
+msgid "0.1"
+msgstr ""
+
+#: framework/setup_theme.php:204
+msgid "0.2"
+msgstr ""
+
+#: framework/setup_theme.php:205
+msgid "0.3"
+msgstr ""
+
+#: framework/setup_theme.php:206
+msgid "0.4"
+msgstr ""
+
+#: framework/setup_theme.php:207
+msgid "0.5"
+msgstr ""
+
+#: framework/setup_theme.php:208
+msgid "0.6"
+msgstr ""
+
+#: framework/setup_theme.php:209
+msgid "0.7"
+msgstr ""
+
+#: framework/setup_theme.php:210
+msgid "0.8"
+msgstr ""
+
+#: framework/setup_theme.php:211
+msgid "0.9"
+msgstr ""
+
+#: framework/setup_theme.php:212
+msgid "1"
+msgstr ""
+
+#: framework/setup_theme.php:217
+msgid "Text Color of Row"
+msgstr ""
+
+#: header.php:16
+msgid "Loading..."
+msgstr ""
+
+#: header/header-default.php:42
+msgid "Toggle navigation"
+msgstr ""
+
+#: page.php:26 templates/blog_template.php:99
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:26
+msgid "Search Results for:"
+msgstr ""
+
+#: templates/blog_template.php:83
+msgid "<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: templates/blog_template.php:84
+msgid "<i class=\"fa fa-chevron-left\"></i>"
+msgstr ""
+
+#: templates/blog_template.php:90
+msgid "<ul class=\"pagination\">"
+msgstr ""
+
+#: templates/blog_template.php:92
+msgid "<li>"
+msgstr ""
+
+#: templates/blog_template.php:92
+msgid "</li>"
+msgstr ""
+
+#: templates/blog_template.php:94
+msgid "</ul>"
+msgstr ""
